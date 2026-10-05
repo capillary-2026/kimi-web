@@ -18,5 +18,12 @@
   "companySourceApproval": "September company source approved by owner on 2026-10-05",
   "logo": "assets/brand/quaerite-company-logo.jpg",
   "heroDirection": "Human-centred theme preview; aspirational headline, not a treatment-benefit claim",
-  "companyPositioningSource": "Owner clarification, 5 October 2026: clinical stage, moving toward commercialization; direction, not a claim of marketed or approved products."
+  "companyPositioningSource": "Owner clarification, 5 October 2026: clinical stage, moving toward commercialization; direction, not a claim of marketed or approved products.",
+  "platformResidence": "Reversible albumin association changes the effective hydrodynamic size of the therapeutic population. Molecular design and formulation are investigated together to support residence in the vitreous.",
+  "platformPosteriorExposure": "Exposure is evaluated in the retina, retinal pigment epithelium (RPE) and choroid. These disease-relevant compartments are distinct from the vitreous reservoir.",
+  "platformPreclinicalEvidence": "Internal ocular pharmacokinetic and biodistribution studies in QBR202, QBR207 and QBR209 report ocular residence and posterior-tissue exposure. Results remain specific to each candidate, species and study.",
+  "platformHumanSerumPK": "Preliminary serum pharmacokinetics following intravitreal QBR202 dosing provide an early clinical observation. A slow ocular-release interpretation is being evaluated under a flip-flop pharmacokinetic model.",
+  "platformHumanPKBoundary": "These are serum measurements. Direct human ocular half-life and retinal tissue exposure have not been measured.",
+  "platformMechanisticHypothesis": "Cellular and ex-vivo experiments are exploring whether albumin-associated species interact with LRP2 (megalin) and the cubilin–amnionless system at the RPE. Their causal contribution to tissue delivery in vivo is not established.",
+  "platformEvidenceBoundary": "OcuHLE-X is an investigational platform. Human ocular exposure, clinical durability and benefit require further evaluation for each candidate."
 }
